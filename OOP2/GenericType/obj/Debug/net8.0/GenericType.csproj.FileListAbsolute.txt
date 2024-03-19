@@ -1,0 +1,14 @@
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\bin\Debug\net8.0\GenericType.exe
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\bin\Debug\net8.0\GenericType.deps.json
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\bin\Debug\net8.0\GenericType.runtimeconfig.json
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\bin\Debug\net8.0\GenericType.dll
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\bin\Debug\net8.0\GenericType.pdb
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.AssemblyInfo.cs
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.dll
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\refint\GenericType.dll
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.pdb
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\GenericType.genruntimeconfig.cache
+C:\Users\Merve Karataş\source\repos\OOP2\GenericType\obj\Debug\net8.0\ref\GenericType.dll

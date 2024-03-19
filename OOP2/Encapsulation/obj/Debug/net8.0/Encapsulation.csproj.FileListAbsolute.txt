@@ -1,0 +1,14 @@
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Merve Karataş\source\repos\OOP2\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
